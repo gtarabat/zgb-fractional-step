@@ -8,10 +8,10 @@ This video is a simulation on a 200x200 lattice with 4x4 blocks.
 
 ![ZGB](./figures/zgb-fs.gif)
 
-The next figure is a comparison of the FS algorithm with the Gillespie (or SSA) algorithm on a 10x10 lattice with 2x2 blocks and dt=0.01.
+The next figure is a comparison of the FS algorithm with the Gillespie (or SSA) algorithm on a 10x10 lattice with 2x2 blocks and dt=0.01. The constants in the ZGB model are k1=0.394 and k2=1.
 
 ![comparison](./figures/comparison-10.jpg)
 
-The next figure is a comparison of the FS algorithm with the Gillespie (or SSA) algorithm on a 100x100 lattice with 2x2 block and dt=0.1.
+The next figure is a comparison of the FS algorithm with the Gillespie (or SSA) algorithm on a 100x100 lattice with 4x4 block and dt=0.1. The constants in the ZGB model are k1=0.394 and k2=1.
 
 ![comparison](./figures/comparison-100.jpg)
