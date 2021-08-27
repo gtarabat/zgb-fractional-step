@@ -18,6 +18,6 @@ The next figure is a comparison of the FS algorithm with the Gillespie (or SSA) 
 
 [1] G. Arampatzis, M. A. Katsoulakis, P. Plecháč, M. Taufer, and L. Xu, “Hierarchical fractional-step approximations and parallel kinetic Monte Carlo algorithms,” Journal of Computational Physics, vol. 231, no. 23, pp. 7795–7814, Oct. 2012, doi: 10.1016/j.jcp.2012.07.017.
 
-[2] G. Arampatzis and M. A. Katsoulakis, “Goal-oriented sensitivity analysis for lattice kinetic Monte Carlo simulations,” The Journal of Chemical Physics, vol. 140, no. 12, p. 124108, Mar. 2014, doi: 10.1063/1.4868649.
+[2] G. Arampatzis, M. A. Katsoulakis, and P. Plecháč, “Parallelization, Processor Communication and Error Analysis in Lattice Kinetic Monte Carlo,” SIAM J. Numer. Anal., vol. 52, no. 3, pp. 1156–1182, Jan. 2014, doi: 10.1137/120889459.
 
 
